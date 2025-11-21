@@ -80,6 +80,11 @@ class HomePage extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(height: 40),
+            const Text(
+              "IZINN 🫷🏻",
+              style: TextStyle(color: Colors.red, fontSize: 50),
+            ),
           ],
         ),
       ),
